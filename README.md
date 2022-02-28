@@ -3,7 +3,8 @@
 
 #### Demo Application Deployed on [Heruko](https://skin-cancer-analysis.herokuapp.com/)
 #### This is a prototype for an online tool that can detect Skin cancer.
-#### Notebook code  for this application [Available here](https://www.kaggle.com/shashwatwork/skin-cancer-analyzer-streamlit-app)
+#### Notebook code for this application - "algorithm.ipynb"
+#### Notebook code for this stramlit application - "streamlit_app.py"
 
 ### Made with ![](streamlit-logo.png)
 ### Powered with ![keras](keras.png)
